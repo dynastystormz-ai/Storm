@@ -1,1 +1,13 @@
-
+Storms repository 
+This repository was created as a practical exercise tutorial #4 in efforts of teaching students to become more verse with Git/GitHub's collaborative branching workflow
+Steps Followed to Complete the Tutorial
+1. Starting a public GitHub repository.
+2. Created an initial README file to activate the repository.
+3. Created a new branch named `assignment-branch`.
+4. Added a custom file containing first and last names.
+5. Committed the file changes to the new branch.
+6. Opened a Pull Request to merge the changes into the main branch.
+7. Assigned StormNumber2 as the reviewer.
+8. Waited for review approval from the collaborator.
+9. Successfully merged the approved branch back into main.
+Collaborators: DynastyStormz-ai (Main Dev), StormNumber2 (Reviewer/ Collaborator)
